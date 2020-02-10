@@ -20,6 +20,10 @@ height: 100%
 
 const TitleWrapper = styled.div`
     margin-top:20em;
+    text-shadow: 3px 4px 0 rgb(15, 14, 14);
+    font-family: 'Baloo Bhai', cursive;
+    color: #2b665e;
+    font-size: 80px;
 `;
 class Home extends Component {
     state = {}
